@@ -1,0 +1,40 @@
+﻿  Source.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): error C2440: 'initializing': cannot convert from 'nodeType *' to 'int'
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): note: There is no context in which this conversion is possible
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): error C2374: 'current': redefinition; multiple initialization
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): note: see declaration of 'current'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): error C2227: left of '->link' must point to class/struct/union/generic type
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): note: type is 'int'
+  main.cpp
+  linkedList.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): error C2440: 'initializing': cannot convert from 'nodeType *' to 'int'
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): note: There is no context in which this conversion is possible
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): error C2374: 'current': redefinition; multiple initialization
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): note: see declaration of 'current'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): error C2227: left of '->link' must point to class/struct/union/generic type
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(16): note: type is 'int'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(9): error C2374: 'current': redefinition; multiple initialization
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): note: see declaration of 'current'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(9): error C2440: 'initializing': cannot convert from 'nodeType *' to 'int'
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(9): note: There is no context in which this conversion is possible
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(10): error C2059: syntax error: 'while'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(11): error C2143: syntax error: missing ';' before '{'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(11): error C2447: '{': missing function header (old-style formal list?)
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(13): error C2146: syntax error: missing ';' before identifier 'output'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(14): error C2374: 'current': redefinition; multiple initialization
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(15): note: see declaration of 'current'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(14): error C2440: 'initializing': cannot convert from 'nodeType *' to 'int'
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(14): note: There is no context in which this conversion is possible
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(15): error C2059: syntax error: 'while'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(16): error C2143: syntax error: missing ';' before '{'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(16): error C2447: '{': missing function header (old-style formal list?)
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(21): error C2011: 'nodeType': 'struct' type redefinition
+  c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.h(9): note: see declaration of 'nodeType'
+c:\users\stephanie\documents\visual studio 2015\projects\cs 162 exam function examples\cs 162 exam function examples\linkedlist.cpp(21): fatal error C1903: unable to recover from previous error(s); stopping compilation
